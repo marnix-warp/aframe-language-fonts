@@ -8,7 +8,7 @@
 
 
 ### Generate fonts
-see [Unicode charts](https://www.unicode.org/charts/)
+see [Unicode charts](https://www.unicode.org/charts/) for an overview of all international scripts.
 #### Requirements
 1. npm install -g msdf-bmfont
 1. a charset.txt file
